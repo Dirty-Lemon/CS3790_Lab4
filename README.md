@@ -1,7 +1,7 @@
-NAME:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kevin Terceros<br />
+NAME:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kevin Terceros<br />
 STUDENT ID:&nbsp;5078969<br />
-COURSE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CS3790<br />
-PROJECT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 4
+COURSE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CS3790<br />
+PROJECT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 4
 
 # Conway's Game of Life Ver. 3
 
