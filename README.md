@@ -1,6 +1,6 @@
-NAME: 	    Kevin Terceros
-STUDENT ID: 5078969
-COURSE:     CS3790
+NAME: 	    Kevin Terceros<br />
+STUDENT ID: 5078969<br />
+COURSE:     CS3790<br />
 PROJECT:    Lab 4
 
 # Conway's Game of Life Ver. 3
@@ -20,11 +20,11 @@ PROJECT:    Lab 4
 This project is the developer's third implementation of Conway's Game of Life. The game is intended to be viewed as a
 board of living cells, shown as either an 'X' or a [blank] to indicate that the "cell" is "alive" or "dead".
 
-The game works by implementing four basic rules:
-	1. If a live cell is adjacent to 0 or 1 live cells, the cell dies as if from underpopulation.
-	2. If a live cell is adjacent to 2 or 3 live cells, the cell lives on to the next "generation".
-	3. If a live cell is adjacent to 4 or more live cells, the cell dies as if from overpopulation.
-	4. If a dead cell is adjacent to exactly 3 live cells, the cell comes to life.
+The game works by implementing four basic rules:<br />
+	1. If a live cell is adjacent to 0 or 1 live cells, the cell dies as if from underpopulation.<br />
+	2. If a live cell is adjacent to 2 or 3 live cells, the cell lives on to the next "generation".<br />
+	3. If a live cell is adjacent to 4 or more live cells, the cell dies as if from overpopulation.<br />
+	4. If a dead cell is adjacent to exactly 3 live cells, the cell comes to life.<br />
 
 This version was built directly upon Version 2 with changes made to utilize threads to complete its task.
 
