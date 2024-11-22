@@ -21,10 +21,10 @@ This project is the developer's third implementation of Conway's Game of Life. T
 board of living cells, shown as either an 'X' or a [blank] to indicate that the "cell" is "alive" or "dead".
 
 The game works by implementing four basic rules:<br />
-	1. If a live cell is adjacent to 0 or 1 live cells, the cell dies as if from underpopulation.<br />
-	2. If a live cell is adjacent to 2 or 3 live cells, the cell lives on to the next "generation".<br />
-	3. If a live cell is adjacent to 4 or more live cells, the cell dies as if from overpopulation.<br />
-	4. If a dead cell is adjacent to exactly 3 live cells, the cell comes to life.<br />
+&emsp;1. If a live cell is adjacent to 0 or 1 live cells, the cell dies as if from underpopulation.<br />
+&emsp;2. If a live cell is adjacent to 2 or 3 live cells, the cell lives on to the next "generation".<br />
+&emsp;3. If a live cell is adjacent to 4 or more live cells, the cell dies as if from overpopulation.<br />
+&emsp;4. If a dead cell is adjacent to exactly 3 live cells, the cell comes to life.<br />
 
 This version was built directly upon Version 2 with changes made to utilize threads to complete its task.
 
