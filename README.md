@@ -1,7 +1,9 @@
+<pre>
 NAME: 	    Kevin Terceros<br />
 STUDENT ID: 5078969<br />
 COURSE:     CS3790<br />
 PROJECT:    Lab 4
+</pre>
 
 # Conway's Game of Life Ver. 3
 
