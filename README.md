@@ -32,7 +32,7 @@ This version was built directly upon Version 2 with changes made to utilize thre
 
 The user shall create their project by entering "make" in the command line. This creates an executable under the name
 "gol". To remove this file, the user shall enter "make clean" in the command line, which will then request
-confirmation. Entering 'y' (upper- or lower- case)at this stage will cause the file to be deleted. Entering any other
+confirmation. Entering 'y' (upper- or lower- case) at this stage will cause the file to be deleted. Entering any other
 key will cancel the deletion process and leave the file intact.
 
 ## Program Execution
